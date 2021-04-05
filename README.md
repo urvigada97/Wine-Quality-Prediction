@@ -44,3 +44,9 @@ oneliner updates  for readme
 ```bash
 git add . && git commit -m "update Readme.md"
 ```
+
+```bash
+git remote add origin https://github.com/urvigada97/Wine-Quality-Prediction.git
+git branch -M main
+git push origin main
+```
