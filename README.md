@@ -30,3 +30,17 @@ dvc init
 ```bash
 dvc add data_given/winequality.csv
 ```
+
+```bash
+git add .
+```
+
+```bash
+git commit -m "first commit"
+```
+
+oneliner updates  for readme
+
+```bash
+git add . && git commit -m "update Readme.md"
+```
